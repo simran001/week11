@@ -11,13 +11,13 @@
           "calories" : "200",
           "type" : "ice-cream",
           "ingredients" : ["Chocolate syrup"," Peppermint sprinkle","Vanilla Base"],
-          "image" : "chocolate-mint.svg" 
+          "image" : "https://simran001.github.io/week11/images/chocolate-mint.svg" 
        },{
           "name" : "Peach Mango",
           "calories" : "240",
           "type" : "milkshake-type ice cream",
           "ingredients" : ["peach syrup","mango chucks","Vanilla Base"],
-          "image" : "chocolate-mint.svg" 
+          "image" : "https://simran001.github.io/week11/images/peach-mango.svg" 
        }
   
       ]
