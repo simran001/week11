@@ -4,9 +4,7 @@
       "established": 2024,
       "active": true,
       "topFlavors": [
-  
-       {
-  
+       {  
           "name" : "Chocolate Mint",
           "calories" : "200",
           "type" : "ice-cream",
@@ -16,9 +14,26 @@
           "name" : "Peach Mango",
           "calories" : "240",
           "type" : "milkshake-type ice cream",
-          "ingredients" : ["peach syrup","mango chucks","Vanilla Base"],
+          "ingredients" : ["peach syrup","mango chunks","Vanilla Base"],
           "image" : "https://simran001.github.io/week11/images/peach-mango.svg" 
+       },{
+          "name" : "Vanilla Mix",
+          "calories" : "300",
+          "type" : "Frozen ice cream",
+          "ingredients" : ["Vanilla syrup","Red Cherries","Vanilla Base"],
+          "image" : "https://simran001.github.io/week11/images/ice-cream-xtra1.svg" 
+       },{
+          "name" : "Strawberry Sprinkle",
+          "calories" : "290",
+          "type" : "milkshake-type ice cream",
+          "ingredients" : ["Strawberry syrup","Strawberry chunks","Cane sugar Base"],
+          "image" : "https://simran001.github.io/week11/images/strawberry-sprinkle.svg" 
+       },{
+          "name" : "Double Chocolate",
+          "calories" : "400",
+          "type" : "Dark chocolate ice cream",
+          "ingredients" : ["Chocolate syrup"," chucks","Caramel Base"],
+          "image" : "https://simran001.github.io/week11/images/ice-cream-xtra2.svg" 
        }
-  
       ]
   }
